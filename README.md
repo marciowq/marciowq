@@ -13,9 +13,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=marciowq&theme=nord&no-frame=true&no-bg=true&margin-w=4)
-
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=marciowq&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 ---
 [![](https://visitcount.itsvg.in/api?id=marciowq&icon=5&color=3)](https://visitcount.itsvg.in)
